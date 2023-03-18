@@ -3,7 +3,6 @@
 - I’m currently learning React and UX design 
 - Also I love traveling ✈️
 - Trying to improve myself in every ways 
-
 #
 
 ### ✏️ Languages and Tools 
@@ -12,7 +11,7 @@
 🟠🟠🟠🟠🟠⚪⚪⚪ 
 <br />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
-🔵🔵🔵🔵🔵⚪⚪⚪ 
+
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
 🟡🟡🟡⚪⚪⚪⚪⚪ <br />
 <img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> 
