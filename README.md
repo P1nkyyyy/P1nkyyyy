@@ -1,10 +1,13 @@
-### Pinkyyy
+<h2> ⚡ Pinkyyy </h2>
+
+## 💡 Something about me 
+- I'm 19 years old self-taught FrontEnd developer from Czech Republic 🇨🇿
+- I’m currently learning React and UX design 
+- 
+
+
 
 <!--
-**P1nkyyyy/P1nkyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
