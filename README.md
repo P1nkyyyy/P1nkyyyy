@@ -21,7 +21,7 @@
 
 <div>
     <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
-    🟡🟡🟡⚪⚪⚪⚪⚪ 
+    🟡🟡🟡🟡⚪⚪⚪⚪ 
 </div> <br />
 
 <div>
@@ -39,7 +39,12 @@
     🟠🟠🟠⚪⚪⚪⚪⚪ 
 </div> <br />
 
+<div>
+    <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    🔵🔵⚪⚪⚪⚪⚪⚪ 
+</div> <br />
+
 ### 🛠️ Learning right now
 
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+
