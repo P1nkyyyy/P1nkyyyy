@@ -7,8 +7,6 @@
 
 ## 🌐 My portfolio
 - [pinkava.com](https://www.pinkava.com)
-![Screenshot](weeb.png)
-
 
 #
 
